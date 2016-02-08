@@ -1,0 +1,21 @@
+{
+  "name": "mobiledetect",
+  "homepage": "https://github.com/pmt-devs/mobiledetect",
+  "authors": [
+    "Victor Istrati <v.istrati@developmentaid.org>"
+  ],
+  "description": "",
+  "keywords": [
+    "mobiledetect"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "1.9.1 - 2"
+  },
+  "main": "",
+  "ignore": [
+    "component.json",
+    "package.json",
+    "composer.json"
+  ]
+}
